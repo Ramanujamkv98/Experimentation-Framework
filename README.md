@@ -36,11 +36,10 @@ This approach aligns with practices used by companies like Netflix, where A/A te
 This confirms that observed A/B results are unbiased and trustworthy
 
 Key Results:
-Activation Impact
-Activation increased by ~2.6% to 3.3% (95% confidence interval)
-Indicates reduced onboarding friction
+Activation Impact: Activation increased from 14.99% to 15.38% a +2.6% relative lift.  
+The 95% confidence interval for the uplift is +2.6% to +3.3%, indicating a statistically significant and consistent improvement.
 Revenue & User Quality Impact
-Revenue declined by ~4–5%
+Revenue declined by almost 4%
 Refund rates increased by ~15%
 Support requests increased by ~8%
 
