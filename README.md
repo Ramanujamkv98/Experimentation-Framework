@@ -1,4 +1,4 @@
-Business-Friendly Version (Final)
+
 Experimentation & Product Decisioning: Trial vs Direct Sale Strategy
 
 Overview
