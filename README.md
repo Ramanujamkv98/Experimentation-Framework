@@ -8,9 +8,8 @@ Using A/A validation, A/B testing, confidence intervals, and segmentation analys
 
 Should the Trial feature be launched—and if so, for which user segments?
 
-Business Problem
-
-The current Direct Sale onboarding flow creates friction for users who are hesitant to commit upfront, leading to lower early engagement.
+Business Problem:
+The current Direct Sale onboarding flow requires upfront commitment, which may act as a barrier for some users. This experiment aims to evaluate whether reducing this friction through a Trial-First approach can improve early engagement without negatively impacting business outcomes.
 
 A Trial-First experience is expected to:
 
