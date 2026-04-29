@@ -65,9 +65,11 @@ A full rollout is not recommended.
 
 Suggested Strategy:
 
-Roll out the Trial-First experience to new users, where activation gains are strongest
-Maintain the Direct Sale flow for returning users to protect revenue from high-intent segments
-Use a targeted approach to balance growth and monetization
+1.Roll out the Trial-First experience to new users, where activation gains are strongest
+
+2.Maintain the Direct Sale flow for returning users to protect revenue from high-intent segments
+
+3.Use a targeted approach to balance growth and monetization
 Key Takeaway
 
 Improving engagement metrics alone does not guarantee business success.
