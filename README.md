@@ -1,3 +1,9 @@
+
+GitHub notebook preview may occasionally fail.
+
+View the fully rendered notebook here:
+https://nbviewer.org/github/Ramanujamkv98/Experimentation-Framework/blob/main/Experimentation_Results%20%288%29.ipynb
+
 Experimentation & Product Decisioning: Trial vs Direct Sale Strategy
 
 Overview
